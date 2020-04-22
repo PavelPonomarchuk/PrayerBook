@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Молитвослов</string>
+    <string name="contents">ОГЛАВЛЕНИЕ</string>
+    <string name="to_contents">К оглавлению</string>
+</resources>

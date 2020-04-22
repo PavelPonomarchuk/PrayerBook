@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="our_father_name">Молитва Господня. Отче наш</string>
+    <string name="jesus_prayer_name">Иисусова молитва</string>
+    <string name="honest_cross_name">Молитва Честному Кресту (Да воскреснет Бог...)</string>
+    <string name="thanksgiving_name">Благодарение за всякое благодеяние Божие</string>
+    <string name="morning_prayers_name">Молитвы утренние</string>
+    <string name="morning_prayers_name_ending">Молитвы утренние (окончание)</string>
+    <string name="sleep_prayers_name">Молитвы на сон грядущим</string>
+    <string name="repentance_canon_name">Канон покаянный ко Господу нашему Иисусу Христу</string>
+    <string name="virgin_canon_name">Канон молебный ко Пресвятой Богородице</string>
+    <string name="angel_canon_name">Канон Ангелу Хранителю</string>
+    <string name="before_communion_name">Последование ко Святому Причащению</string>
+    <string name="before_communion_name_ending">Последование ко Святому Причащению (окончание)</string>
+    <string name="jesus_akathist_name">Акафист Иисусу Сладчайшему</string>
+    <string name="virgin_akathist_name">Акафист Пресвятой Богородице</string>
+    <string name="after_communion_name">Благодарственные молитвы по Святом Причащении</string>
+    <string name="creed_symbol_name">Символ веры</string>
+</resources>
